@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [order-summary-component-main](https://github.com/abok-cymk/order-summary-component-main)
-- Live Site URL: [Order Summary Component Main](https://your-live-site-url.com)
+- Live Site URL: [Order Summary Component Main](https://order-summary-component-nine-mu.vercel.app/)
 
 ## My process
 
