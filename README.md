@@ -63,6 +63,6 @@ body {
 
 ## Author
 
-- Frontend Mentor - [@abok-cymk](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@allanabok22](https://www.x.com/allanabok22)
+- Frontend Mentor - [@abok-cymk](https://www.frontendmentor.io/profile/abok-cymk)
+- Twitter - [@abokallan22](https://www.x.com/abokallan22)
 
